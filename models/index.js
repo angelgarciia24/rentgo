@@ -2,7 +2,7 @@ const sequelize = require('../config/database');
 
 const Usuario = require('./usuario');
 const Empresa = require('./empresa');
-const Coche = require('./Coche');
+const Coche = require('./coche');
 const Reserva = require('./Reserva');
 const Pago = require('./Pago');
 const Reseña = require('./Reseña');
